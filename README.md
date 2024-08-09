@@ -1,3 +1,4 @@
 # Slider Website 👟
 
-![Screenshot 2024-08-10 004735](https://github.com/user-attachments/assets/7e1ee3ba-5510-4be1-8347-967c7fd799fb)
+
+![Slider](https://github.com/user-attachments/assets/20c5c3f2-7fa2-4c98-9d62-c84538633490)
